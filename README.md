@@ -11,3 +11,5 @@ This repository contains 3 data processing scripts (extension .ipynb), which are
 For the temporal analyses, the "timeseries_analisys_Hs" and "timeseries_analisys_Tp" files follow, which help in the comparative analysis of the ensemble data obtained by SWAN with the buoys of Itajaí and Rio Grande. To spatially analyze the wave height behavior in 3 extreme events, the "spatial_analisys_ENSMean" script was developed and also attached in this repository. 
 
 When opening each script, all cells are automated in sequence, so that a simple click on "Run" is enough to generate the final product: graphs of time series of significant wave height (from timeseries_analisys_Hs.ipynb), peak period (from timeseries_analisys_Tp.ipynb) and maps with the main extreme events (from spatial_analisys_ENSMean.ipynb) found during the analyzed time.
+
+Note: The spreadsheets (.csv) correspond to the observational data obtained by wavebuoys. These were used to validate the time series, in the "timeseries_analisys_Hs" and "timeseries_analisys_Tp" scripts.
